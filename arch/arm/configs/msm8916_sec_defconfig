@@ -695,4 +695,3 @@ CONFIG_SEC_RESTRICT_ROOTING_LOG=y
 
 #TZ ICCC defines
 CONFIG_TZ_ICCC=y
-##############################################################################
